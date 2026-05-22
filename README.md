@@ -173,4 +173,5 @@ This project is developed for academic purposes as part of the Programming Contr
 
 ## Author
 
-Rekayasa Teknologi Instrumentasi — Class 4C
+Natasya Tiara Regina 2042241026
+Zhafran Ahmed Luxmahdy 2042241027
