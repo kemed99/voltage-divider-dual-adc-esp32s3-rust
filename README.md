@@ -171,7 +171,12 @@ Based on 15 academic papers (2021–2026) from Scopus/WoS, including:
 
 This project is developed for academic purposes as part of the Programming Controller (PEMKON) course, Semester 4, 2025/2026.
 
-## Author
+## 👨‍💻 Author
 
-Natasya Tiara Regina 2042241026
-Zhafran Ahmed Luxmahdy 2042241027
+| Name | Student ID |
+|------|------------|
+| Natasya Tiara Regina | 2042241026 |
+| Zhafran Ahmed Luxmahdy | 2042241027 |
+
+**Department of Instrumentation Engineering**
+*Institut Teknologi Sepuluh Nopember (ITS)*
